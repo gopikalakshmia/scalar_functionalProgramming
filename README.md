@@ -1,1 +1,1 @@
-# Basics of Javascript Examples
+#Fundamental JavaScript Examples
