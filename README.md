@@ -1,1 +1,1 @@
-# scalar_functionalProgramming
+# Basics of Javascript Examples
